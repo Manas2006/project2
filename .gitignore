@@ -10,9 +10,7 @@ venv/
 *.ipynb_checkpoints/
 
 # Model & data files
-*.h5
 data/
-results/
 docker-images/
 
 # OS files
