@@ -2,7 +2,7 @@
 
 **Author:** Manas Pathak  
 **Course:** COE 379L – Software Design for Responsible Intelligent Systems  
-**Link to Report:** [https://docs.google.com/document/d/1emTNs-qc5v2hFRtOmwSskmby8FSOz-rHVuBBfYC408Q/edit?usp=sharing](url)
+**Link to Report:** https://docs.google.com/document/d/1emTNs-qc5v2hFRtOmwSskmby8FSOz-rHVuBBfYC408Q/edit?usp=sharing
 **Instructor:** Dr. Joseph Stubbs  
 **Date:** October 2025  
 
